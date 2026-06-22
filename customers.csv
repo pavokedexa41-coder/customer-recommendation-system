@@ -1,0 +1,101 @@
+customer_id,age,gender,total_spend,purchases_electronics,purchases_clothing,purchases_groceries,purchases_books,purchases_sports,preferred_category,customer_segment
+1,24,F,60860,14,3,4,7,5,Electronics,Young Tech Lovers
+2,23,M,60769,12,8,0,5,5,Electronics,Young Tech Lovers
+3,29,M,85658,12,7,6,4,6,Electronics,Young Tech Lovers
+4,20,M,90740,9,5,4,2,5,Electronics,Young Tech Lovers
+5,19,F,83483,15,7,1,5,6,Electronics,Young Tech Lovers
+6,19,F,71653,12,7,3,5,2,Electronics,Young Tech Lovers
+7,21,F,92606,11,7,7,6,4,Electronics,Young Tech Lovers
+8,26,F,99099,15,6,6,1,2,Electronics,Young Tech Lovers
+9,25,M,62027,12,4,2,7,2,Electronics,Young Tech Lovers
+10,26,F,82662,11,3,7,6,5,Electronics,Young Tech Lovers
+11,20,M,92482,14,6,3,2,4,Electronics,Young Tech Lovers
+12,30,M,82403,16,6,3,3,5,Electronics,Young Tech Lovers
+13,19,F,62693,14,8,5,5,5,Electronics,Young Tech Lovers
+14,26,M,83776,8,4,7,3,4,Electronics,Young Tech Lovers
+15,26,F,63748,10,6,5,2,3,Electronics,Young Tech Lovers
+16,18,F,77675,11,6,0,3,2,Electronics,Young Tech Lovers
+17,29,F,60854,12,4,2,4,4,Electronics,Young Tech Lovers
+18,24,M,72688,15,5,2,4,6,Electronics,Young Tech Lovers
+19,20,F,62811,13,5,4,7,0,Electronics,Young Tech Lovers
+20,25,F,83078,9,7,0,3,5,Electronics,Young Tech Lovers
+21,45,F,55199,3,5,9,6,4,Groceries,Family Shoppers
+22,52,M,37400,4,7,11,6,2,Groceries,Family Shoppers
+23,37,F,72405,6,5,10,4,2,Groceries,Family Shoppers
+24,31,F,76760,3,5,15,5,0,Groceries,Family Shoppers
+25,45,F,71914,6,6,11,0,2,Groceries,Family Shoppers
+26,34,F,70764,5,7,8,6,5,Groceries,Family Shoppers
+27,43,M,73525,5,6,12,5,4,Groceries,Family Shoppers
+28,30,F,30190,4,5,11,1,3,Groceries,Family Shoppers
+29,32,F,66631,2,6,10,1,0,Groceries,Family Shoppers
+30,40,F,70111,6,4,11,4,1,Groceries,Family Shoppers
+31,33,M,32368,6,7,10,5,1,Groceries,Family Shoppers
+32,51,F,61289,1,6,13,0,3,Groceries,Family Shoppers
+33,41,F,79156,5,7,13,5,1,Groceries,Family Shoppers
+34,39,F,56258,2,6,13,5,1,Groceries,Family Shoppers
+35,41,M,31081,1,5,12,0,4,Groceries,Family Shoppers
+36,51,M,38130,4,7,12,3,0,Groceries,Family Shoppers
+37,43,F,59124,4,7,11,5,3,Groceries,Family Shoppers
+38,39,F,62580,4,6,11,1,4,Groceries,Family Shoppers
+39,33,F,68646,1,7,14,3,0,Groceries,Family Shoppers
+40,48,M,68155,2,3,13,4,3,Groceries,Family Shoppers
+41,36,F,74850,2,13,3,2,3,Clothing,Fashion Lovers
+42,24,F,57209,1,14,4,4,1,Clothing,Fashion Lovers
+43,21,F,78756,2,10,7,1,7,Clothing,Fashion Lovers
+44,29,M,60150,0,10,2,3,4,Clothing,Fashion Lovers
+45,39,M,40698,2,14,1,5,4,Clothing,Fashion Lovers
+46,31,M,72307,3,16,6,3,7,Clothing,Fashion Lovers
+47,21,M,41167,4,13,3,2,7,Clothing,Fashion Lovers
+48,28,M,46801,5,9,5,4,6,Clothing,Fashion Lovers
+49,25,F,67569,3,13,5,3,8,Clothing,Fashion Lovers
+50,18,F,81459,0,15,7,4,4,Clothing,Fashion Lovers
+51,39,M,65289,3,14,2,2,7,Clothing,Fashion Lovers
+52,25,M,65470,0,14,4,5,1,Clothing,Fashion Lovers
+53,18,F,86196,2,15,8,4,8,Clothing,Fashion Lovers
+54,28,F,61732,5,13,2,2,1,Clothing,Fashion Lovers
+55,38,F,80821,2,13,5,1,7,Clothing,Fashion Lovers
+56,25,F,80251,4,15,4,2,1,Clothing,Fashion Lovers
+57,38,F,75547,7,14,2,6,3,Clothing,Fashion Lovers
+58,19,F,59255,2,14,1,1,2,Clothing,Fashion Lovers
+59,28,M,63833,2,12,5,1,3,Clothing,Fashion Lovers
+60,18,M,80943,5,12,7,3,5,Clothing,Fashion Lovers
+61,58,F,57201,1,1,2,14,2,Books,Book Lovers
+62,22,M,67783,3,4,3,12,3,Books,Book Lovers
+63,22,F,33427,1,1,8,13,3,Books,Book Lovers
+64,59,F,38051,1,3,4,11,2,Books,Book Lovers
+65,59,M,56703,4,3,3,16,3,Books,Book Lovers
+66,38,F,44963,6,6,6,12,4,Books,Book Lovers
+67,44,M,40183,3,5,7,10,4,Books,Book Lovers
+68,48,M,35161,0,5,5,12,4,Books,Book Lovers
+69,43,M,64749,3,4,3,9,1,Books,Book Lovers
+70,30,F,35488,1,4,7,9,2,Books,Book Lovers
+71,29,M,39178,2,4,5,13,2,Books,Book Lovers
+72,28,M,43030,3,6,2,11,1,Books,Book Lovers
+73,58,F,50289,1,2,5,8,2,Books,Book Lovers
+74,46,F,32561,1,2,6,9,4,Books,Book Lovers
+75,58,F,44123,1,5,5,8,3,Books,Book Lovers
+76,27,F,30622,5,4,2,12,5,Books,Book Lovers
+77,57,F,63110,1,7,6,10,0,Books,Book Lovers
+78,23,M,35954,3,7,8,12,4,Books,Book Lovers
+79,54,F,61976,2,6,4,15,3,Books,Book Lovers
+80,54,F,25009,0,5,2,11,5,Books,Book Lovers
+81,26,M,86976,5,4,3,3,14,Sports,Sports Enthusiasts
+82,26,F,54019,5,6,7,4,12,Sports,Sports Enthusiasts
+83,31,F,58325,7,7,4,1,11,Sports,Sports Enthusiasts
+84,30,F,53520,4,3,2,0,9,Sports,Sports Enthusiasts
+85,31,M,71455,6,7,3,3,12,Sports,Sports Enthusiasts
+86,32,M,40788,4,6,7,0,12,Sports,Sports Enthusiasts
+87,22,M,52334,4,5,5,2,12,Sports,Sports Enthusiasts
+88,32,F,41359,8,10,3,6,11,Sports,Sports Enthusiasts
+89,36,M,45147,5,7,3,2,11,Sports,Sports Enthusiasts
+90,29,F,45380,5,3,5,4,14,Sports,Sports Enthusiasts
+91,33,F,88028,5,6,3,1,12,Sports,Sports Enthusiasts
+92,39,M,48718,5,4,4,0,10,Sports,Sports Enthusiasts
+93,25,M,37708,3,3,4,3,9,Sports,Sports Enthusiasts
+94,20,M,84688,4,5,3,2,10,Sports,Sports Enthusiasts
+95,28,M,39971,5,4,5,4,8,Sports,Sports Enthusiasts
+96,28,F,54097,5,3,2,2,11,Sports,Sports Enthusiasts
+97,39,F,66195,7,6,2,6,12,Sports,Sports Enthusiasts
+98,41,M,62965,8,7,2,0,11,Sports,Sports Enthusiasts
+99,19,F,89235,2,6,5,3,11,Sports,Sports Enthusiasts
+100,27,M,45093,5,6,4,5,8,Sports,Sports Enthusiasts
